@@ -2,6 +2,8 @@
 
 在终端里监控 CPA Management API 的账号配额与 usage。
 
+<img width="2038" height="1298" alt="image" src="https://github.com/user-attachments/assets/560f0c70-026b-451f-bb14-ac30932f94cc" />
+
 `cpa-quota` 是一个基于 Ink 的 CLI，可用于：
 - 查看整体请求量、成功率、总 tokens
 - 按 provider 展示账号列表
